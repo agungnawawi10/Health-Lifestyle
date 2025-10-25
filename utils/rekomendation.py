@@ -3,7 +3,7 @@ def get_recomendation(prediction):
         return (
             "Risiko penyakit kamu tergolong tinggi. "
             "Perhatikan pola makan, rutin berolahraga minimal 30 menit per hari, "
-            "kurangi konsumsi rokok dan alkohol, serta cukup tidur (7–8 jam)."
+            "kurangi konsumsi rokok dan alkohol, serta cukup tidur (7–8 jam) yaa."
         )
     else:
         return (
