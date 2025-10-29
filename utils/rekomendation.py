@@ -9,5 +9,5 @@ def get_recomendation(prediction):
         return (
             "Risiko penyakit kamu tergolong rendah. "
             "Pertahankan gaya hidup sehat, cukup minum air, "
-            "dan tetap aktif bergerak setiap hari!"
+            "dan tetap aktif bergerak setiap hari!"            
         )

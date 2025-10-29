@@ -2,3 +2,4 @@
 --------------------
 "# Tugas machine learning "
 "# Memahami algoritma yang di gunakan "
+"# langsing udah "
