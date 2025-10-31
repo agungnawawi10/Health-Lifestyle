@@ -2,4 +2,4 @@
 --------------------
 "# Tugas machine learning "
 "# Memahami algoritma yang di gunakan "
-"# langsing udah "
+"# tugas ini akan di gunakan untuk deteksi dini penyakit pada remaja"
