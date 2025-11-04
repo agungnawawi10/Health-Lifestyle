@@ -1,5 +1,6 @@
 "# Health-Lifestyle" 
 --------------------
 "# Tugas machine learning "
-"# tugas ini akan di gunakan untuk deteksi dini penyakit pada remaja"
+"# Deteksi risiko penyakit diabetes berdasarkan pola hidup"
 "# Memahami algoritma yang di gunakan "
+"# "
