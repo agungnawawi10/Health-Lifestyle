@@ -8,7 +8,7 @@ data_path = os.path.join(os.path.dirname(__file__), "data", "health_lifestyle_da
 
 with open(model_path, "rb") as f:
     model = pickle.load(f)
-
+# 
 df = pd.read_csv(data_path)
 if "id" in df.columns:
     df = df.drop(columns=["id"])
